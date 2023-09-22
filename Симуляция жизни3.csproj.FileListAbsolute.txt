@@ -1,0 +1,10 @@
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\bin\Debug\Симуляция жизни3.exe.config
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\bin\Debug\Симуляция жизни3.exe
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\bin\Debug\Симуляция жизни3.pdb
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\obj\Debug\Симуляция жизни3.csproj.AssemblyReference.cache
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\obj\Debug\Симуляция_жизни3.Form1.resources
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\obj\Debug\Симуляция_жизни3.Properties.Resources.resources
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\obj\Debug\Симуляция жизни3.csproj.GenerateResource.cache
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\obj\Debug\Симуляция жизни3.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\obj\Debug\Симуляция жизни3.exe
+C:\Users\Данила\source\repos\Симуляция жизни3\Симуляция жизни3\obj\Debug\Симуляция жизни3.pdb
